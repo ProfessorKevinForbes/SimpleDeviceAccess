@@ -5,13 +5,13 @@
         id          = "com.ecg.SimpleTicToeToe"
         version     = "1.0.0" >
 
-    <name>Simple Photo</name>
+    <name>Simple Device Access</name>
 
     <description>
-        A simple photo tool.
+        A simple device access example app.
     </description>
 
-    <author href="https://github.com/ProfessorKevinForbes/Simple-Photo" email="professorkevinforbes@gmail.com">
+    <author href="https://github.com/ProfessorKevinForbes/SimpleDeviceAccess" email="professorkevinforbes@gmail.com">
         Kevin Forbes
     </author>
 
